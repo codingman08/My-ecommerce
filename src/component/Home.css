@@ -1,0 +1,25 @@
+.head-title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.shoppingImage{
+  width: 100vw;
+  height: 75vh;
+  margin-bottom:auto;
+}
+
+.shoppingImageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-container {
+  background-color:#FFFFFF;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  gap: 2rem;
+}

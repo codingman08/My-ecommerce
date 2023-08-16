@@ -1,0 +1,47 @@
+.cart-image {
+    width: 150px;
+    height: 150px;
+}
+
+.item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-items {
+   min-width: 1240px;
+   display: flex;
+   justify-content: space-around;
+   align-items:center;
+   padding: 20px;
+}
+
+.plus-button,
+.minus-button {
+    border: solid 1px grey;
+    border-radius: 8px;
+    margin-right: 10px;
+    background-color: gainsboro;
+    width: 30px;
+}
+
+.trash-button {
+    background-color: inherit;
+    border: none;
+}
+
+.check-out-button {
+    background-color: gray;
+    color: aliceblue;
+    font-size: 20px;
+    width: 200px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px;
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,85 @@
+.login-container {
+    margin-top: 35px;
+    padding: 15px 20px;
+    height: 100vh;
+}
+
+.form-container {
+    margin: 0 auto;
+    border: solid 1px gray;
+    border-radius: 10px;
+    max-width: 500px;
+    text-align: center;
+    padding: 30px;
+}
+
+.inputTag {
+    height:47px;
+    min-width: 420px;
+    text-align: start;
+    padding: 0 15px;
+    border-radius: 7px;
+    margin-top: 20px;
+    border: solid 1px grey;
+    background-color: #fff;
+    letter-spacing: 2px;
+}
+
+.inputTag:hover {
+    transform: scale(1.03);
+    transition: all 0.2s ease-in;
+}
+
+
+
+.googleButton {
+    width: 150px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.yourEmail {
+    align-items: center;
+    text-align: center;
+
+}
+
+.spanContainer {
+    margin-top: 15px;
+}
+
+.signInButtonClick {
+    min-width: 420px;
+    color: #fff;
+    background-color:#3B414D;
+    padding: 9px 10px;
+    border: none;
+    border-radius: 9px;
+    margin-bottom: 15px;
+}
+
+.signInButtonClick:hover {
+    transform: scale(1.03);
+    transition: all 0.2s ease-in;
+}
+
+.googleIcon {
+    font-size: 3rem;
+    padding: 8px;
+}
+
+.accImg {
+    width: 130px;
+    border-radius: 80px;
+}
+
+.userName {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 9px;
+}
+
+.spanCheck {
+    margin-left: 10px;
+}
